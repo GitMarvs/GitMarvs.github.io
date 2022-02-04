@@ -1,0 +1,124 @@
+{
+	"data": [
+		{
+			"id": "1000",
+			"code": "f230fh0g3",
+			"name": "Fields",
+			"description": "Product Description",
+			"image": "https://picsum.photos/id/112/300/200",
+			"price": 65,
+			"category": "Accessories",
+			"quantity": 24,
+			"inventoryStatus": "INSTOCK",
+			"rating": 5
+		},
+		{
+			"id": "1001",
+			"code": "nvklal433",
+			"name": "Palace",
+			"description": "Product Description",
+			"image": "https://picsum.photos/id/142/300/200",
+			"price": 72,
+			"category": "Accessories",
+			"quantity": 61,
+			"inventoryStatus": "INSTOCK",
+			"rating": 4
+		},
+		{
+			"id": "1002",
+			"code": "zz21cz3c1",
+			"name": "Background",
+			"description": "Product Description",
+			"image": "https://picsum.photos/id/143/300/200",
+			"price": 79,
+			"category": "Fitness",
+			"quantity": 2,
+			"inventoryStatus": "LOWSTOCK",
+			"rating": 3
+		},
+		{
+			"id": "1003",
+			"code": "244wgerg2",
+			"name": "Seashore",
+			"description": "Product Description",
+			"image": "https://picsum.photos/id/144/300/200",
+			"price": 29,
+			"category": "Clothing",
+			"quantity": 25,
+			"inventoryStatus": "INSTOCK",
+			"rating": 5
+		},
+		{
+			"id": "1004",
+			"code": "h456wer53",
+			"name": "Guitar",
+			"description": "Product Description",
+			"image": "https://picsum.photos/id/145/300/200",
+			"price": 15,
+			"category": "Accessories",
+			"quantity": 73,
+			"inventoryStatus": "INSTOCK",
+			"rating": 4
+		},
+		{
+			"id": "1005",
+			"code": "av2231fwg",
+			"name": "Retro",
+			"description": "Product Description",
+			"image": "https://picsum.photos/id/146/300/200",
+			"price": 120,
+			"category": "Accessories",
+			"quantity": 0,
+			"inventoryStatus": "OUTOFSTOCK",
+			"rating": 4
+		},
+		{
+			"id": "1006",
+			"code": "bib36pfvm",
+			"name": "Beach",
+			"description": "Product Description",
+			"image": "https://picsum.photos/id/147/300/200",
+			"price": 32,
+			"category": "Accessories",
+			"quantity": 5,
+			"inventoryStatus": "LOWSTOCK",
+			"rating": 3
+		},
+		{
+			"id": "1007",
+			"code": "mbvjkgip5",
+			"name": "Oldies",
+			"description": "Product Description",
+			"image": "https://picsum.photos/id/111/300/200",
+			"price": 34,
+			"category": "Accessories",
+			"quantity": 23,
+			"inventoryStatus": "INSTOCK",
+			"rating": 5
+		},
+		{
+			"id": "1008",
+			"code": "vbb124btr",
+			"name": "nature",
+			"description": "Product Description",
+			"image": "https://picsum.photos/id/161/300/200",
+			"price": 99,
+			"category": "Electronics",
+			"quantity": 2,
+			"inventoryStatus": "LOWSTOCK",
+			"rating": 4
+		},
+		{
+			"id": "1009",
+			"code": "cm230f032",
+			"name": "Hills",
+			"description": "Product Description",
+			"image": "https://picsum.photos/id/170/300/200",
+			"price": 299,
+			"category": "Electronics",
+			"quantity": 63,
+			"inventoryStatus": "INSTOCK",
+			"rating": 3
+		}
+	]
+}
